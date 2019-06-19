@@ -388,3 +388,4 @@ git reflog
      ~<n>相当于连续的<n>个^.
  
 转载：http://www.cnblogs.com/mengdd/p/4153773.html
+#在mergedemo分支中修改这一行内容，不过已经被我注释了
